@@ -1,6 +1,6 @@
 /* ============================================================
-            HAXBALL TOOLS  |  DAY 42 - 365 
-   Includes Choose Mode + Auto Balance + Map Switching
+                 HAXBALL TOOLS  |  DAY 42 - 365 
+          Includes Choose Mode + Auto Balance + Map Switching
                     Author: Teleese/ TLS
    ============================================================ */
 
